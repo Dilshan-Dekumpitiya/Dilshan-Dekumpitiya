@@ -1,4 +1,4 @@
-![git](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiO7Sn-tlKzWXoaieujEaiZTaQVL9opfTa-Q&usqp=CAU.png)
+![git](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1UbZJRbqVsACjBJV5KtLbGjm35lso1uLXyQ&usqp=CAU.png)
 <h1 align="center">Hi 👋, I'm Dilshan Dekumpitiya</h1>
 <h3 align="center">A Passionate Full Stack Developer</h3>
 
