@@ -8,7 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/dilshan-dekumpitiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="dilshan-dekumpitiya" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/dekum vlogs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dekum vlogs" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/dekumvlogs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dekumvlogs" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/d_dekumpitiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="d_dekumpitiya" height="30" width="40" /></a>
 </p>
 
