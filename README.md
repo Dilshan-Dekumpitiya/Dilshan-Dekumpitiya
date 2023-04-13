@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dilshan Dekumpitiya</h1>
 <h3 align="center">A Passionate Full Stack Developer</h3>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently studying
 
 - 📫 How to reach me **dilshandekumpitiya@gmail.com**
 
