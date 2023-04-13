@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dilshan Dekumpitiya</h1>
-<h3 align="center">A Passionate Full Stack Developer</h3>
+<h3 align="center">A Passionate Software Engineer</h3>
 
 - 🌱 I’m currently studying
 
