@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dilshan-dekumpitiya&label=Profile%20views&color=0e75b6&style=flat" alt="dilshan-dekumpitiya" /> </p>
 
+- 📝 I regularly write articles on [https://www.blogger.com/blog/posts/2456868571369619766?bpli=1&pli=1](https://www.blogger.com/blog/posts/2456868571369619766?bpli=1&pli=1)
+  
 - 📫 How to reach me **dilshandekumpitiya@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
