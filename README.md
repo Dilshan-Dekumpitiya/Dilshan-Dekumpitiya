@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dilshan Dekumpitiya</h1>
 <h3 align="center">A Passionate Software Engineer</h3>
 
+<img src="https://images.unsplash.com/photo-1550439062-609e1531270e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dilshan-dekumpitiya&label=Profile%20views&color=0e75b6&style=flat" alt="dilshan-dekumpitiya" /> </p>
   
 - 📫 How to reach me **dilshandekumpitiya@gmail.com**
