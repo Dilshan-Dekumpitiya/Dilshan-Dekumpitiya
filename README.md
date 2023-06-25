@@ -2,7 +2,9 @@
 <h3 align="center">A Passionate Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dilshan-dekumpitiya&label=Profile%20views&color=0e75b6&style=flat" alt="dilshan-dekumpitiya" /> </p>
-  
+
+- 📝 I regularly write articles on [https://solocodesstack.blogspot.com/](https://solocodesstack.blogspot.com/)
+
 - 📫 How to reach me **dilshandekumpitiya@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
