@@ -1,6 +1,4 @@
-
-[github-header-image](https://github.com/Dilshan-Dekumpitiya/Dilshan-Dekumpitiya/assets/123532138/eea730d6-01ee-4ea3-a31a-ee75152205fe)
-
+![github-header-image](https://github.com/Dilshan-Dekumpitiya/Dilshan-Dekumpitiya/assets/123532138/33344f79-cccc-4bcc-914f-b4625992e6dd)
 
 <img src="https://user-images.githubusercontent.com/124574193/246260753-e69899f0-0dcf-471d-be6f-ee04c17a38fd.gif">
 
