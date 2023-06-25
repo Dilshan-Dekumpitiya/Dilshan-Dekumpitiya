@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dilshan Dekumpitiya</h1>
 <h3 align="center">A Passionate Software Engineer</h3>
 
+![Header](./[github-header-image])
+
 <img src="https://user-images.githubusercontent.com/124574193/246260753-e69899f0-0dcf-471d-be6f-ee04c17a38fd.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dilshan-dekumpitiya&label=Profile%20views&color=0e75b6&style=flat" alt="dilshan-dekumpitiya" /> </p>
