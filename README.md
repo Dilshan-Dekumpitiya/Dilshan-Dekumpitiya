@@ -1,5 +1,5 @@
 
-![github-header-image](https://github.com/Dilshan-Dekumpitiya/Dilshan-Dekumpitiya/assets/123532138/33344f79-cccc-4bcc-914f-b4625992e6dd)
+ ![Header](./[github-header-image](https://github.com/Dilshan-Dekumpitiya/Dilshan-Dekumpitiya/assets/123532138/dd006535-8d5a-48fa-a545-3e77207db003)])
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dilshan-dekumpitiya&label=Profile%20views&color=0e75b6&style=flat" alt="dilshan-dekumpitiya" /> </p>
