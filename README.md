@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dilshan Dekumpitiya</h1>
 <h3 align="center">A Passionate Software Engineer</h3>
 
-<p style="text-align:center;"><img src="https://user-images.githubusercontent.com/124574193/246260753-e69899f0-0dcf-471d-be6f-ee04c17a38fd.gif" alt="Logo"></p>
+<img src="https://user-images.githubusercontent.com/124574193/246260753-e69899f0-0dcf-471d-be6f-ee04c17a38fd.gif" class="centerImage" alt="CH Logo" height="120" width="350">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dilshan-dekumpitiya&label=Profile%20views&color=0e75b6&style=flat" alt="dilshan-dekumpitiya" /> </p>
 
