@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dilshan Dekumpitiya</h1>
 <h3 align="center">A Passionate Software Engineer</h3>
 
-![Header](./[github-header-image])
+![Header](./[Your header image])
 
 <img src="https://user-images.githubusercontent.com/124574193/246260753-e69899f0-0dcf-471d-be6f-ee04c17a38fd.gif">
 
