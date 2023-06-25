@@ -1,6 +1,6 @@
-<p align="center">
+
 ![github-header-image](https://github.com/Dilshan-Dekumpitiya/Dilshan-Dekumpitiya/assets/123532138/33344f79-cccc-4bcc-914f-b4625992e6dd)
-</p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dilshan-dekumpitiya&label=Profile%20views&color=0e75b6&style=flat" alt="dilshan-dekumpitiya" /> </p>
 
@@ -22,4 +22,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dilshan-dekumpitiya&" alt="dilshan-dekumpitiya" /></p>
 
+<p align="center">
 <img src="https://user-images.githubusercontent.com/124574193/246260753-e69899f0-0dcf-471d-be6f-ee04c17a38fd.gif">
+</p>
