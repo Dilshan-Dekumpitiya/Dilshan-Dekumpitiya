@@ -4,7 +4,7 @@
 
 - 📝 I regularly write articles on [https://solocodesstack.blogspot.com/](https://solocodesstack.blogspot.com/)
 
-- My Portfolio [https://dilshan-dekumpitiya.github.io/MyPortfolio/](https://dilshan-dekumpitiya.github.io/MyPortfolio/)
+- 👨‍💻 My Portfolio [https://dilshan-dekumpitiya.github.io/MyPortfolio/](https://dilshan-dekumpitiya.github.io/MyPortfolio/)
   
 - 📫 How to reach me **dilshandekumpitiya@gmail.com**
 
