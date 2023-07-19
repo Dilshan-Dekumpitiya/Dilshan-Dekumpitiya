@@ -1,6 +1,6 @@
 ![github-header-image](https://github.com/Dilshan-Dekumpitiya/Dilshan-Dekumpitiya/assets/123532138/bad00a3c-44a6-4e2c-8fb1-9e35186e9923)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dilshan-dekumpitiya&label=Profile%20views&color=0e75b6&style=flat" alt="dilshan-dekumpitiya" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=dilshan-dekumpitiya&label=Profile%20views&color=0e75b6&style=flat" alt="dilshan-dekumpitiya" /> </p>
 
 - 📝 I regularly write articles on [https://solocodesstack.blogspot.com/](https://solocodesstack.blogspot.com/)
 
