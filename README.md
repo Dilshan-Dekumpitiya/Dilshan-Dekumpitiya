@@ -1,5 +1,3 @@
-![github-header-image](https://github.com/Dilshan-Dekumpitiya/Dilshan-Dekumpitiya/assets/123532138/bad00a3c-44a6-4e2c-8fb1-9e35186e9923)
-
 <p>
 <img src="https://github.com/Dilshan-Dekumpitiya/Dilshan-Dekumpitiya/assets/123532138/bad00a3c-44a6-4e2c-8fb1-9e35186e9923" width="100%">
 </p>
