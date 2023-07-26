@@ -27,5 +27,9 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dilshan-dekumpitiya&" alt="dilshan-dekumpitiya" /></p>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/124574193/246260753-e69899f0-0dcf-471d-be6f-ee04c17a38fd.gif">
+<img src="https://github.com/Dilshan-Dekumpitiya/Dilshan-Dekumpitiya/blob/main/readme-img.gif" width=500>
 </p>
+
+<h4 align="center"><i>Thank you for coming my GitHub Profile 🤝 Have a wonderful day!</i></h4>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer"/>
