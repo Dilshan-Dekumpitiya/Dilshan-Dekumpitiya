@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hey!+I+am+Dilshan+Dekumpitiya;Trainee+Software+Engineer)](https://git.io/typing-svg)
+
 <p>
 <img src="https://github.com/Dilshan-Dekumpitiya/Dilshan-Dekumpitiya/assets/123532138/bad00a3c-44a6-4e2c-8fb1-9e35186e9923" width="100%">
 </p>
