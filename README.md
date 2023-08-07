@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dilshan-dekumpitiya&label=Profile%20views&color=0e75b6&style=flat" alt="dilshan-dekumpitiya" /> </p>
 
-- 📝 I regularly write articles on [https://solocodesstack.blogspot.com/](https://solocodesstack.blogspot.com/)
+- 📝 I regularly write articles on [https://medium.com/@dilshandekumpitiya](https://medium.com/@dilshandekumpitiya)
 
 - 👨‍💻 My Portfolio [https://dilshan-dekumpitiya.github.io/MyPortfolio/](https://dilshan-dekumpitiya.github.io/MyPortfolio/)
   
