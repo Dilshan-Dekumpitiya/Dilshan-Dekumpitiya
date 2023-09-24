@@ -1,9 +1,8 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dilshan-dekumpitiya&label=Profile%20views&color=0e75b6&style=flat" alt="dilshan-dekumpitiya" /> </p>
+
 <p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&width=435&lines=Hi!+%F0%9F%91%8B%2C+I'm+Dilshan+Dekumpitiya" alt="Typing SVG" /></a> </p>
 
-
 <h4 align="center"><i>A Passionate Software Engineer From Sri Lanka</i></h4>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dilshan-dekumpitiya&label=Profile%20views&color=0e75b6&style=flat" alt="dilshan-dekumpitiya" /> </p>
 
 - 📝 I regularly write articles on [https://medium.com/@dilshandekumpitiya](https://medium.com/@dilshandekumpitiya)
 
