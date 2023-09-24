@@ -1,8 +1,7 @@
-<h1 align="center">Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> 
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=435&lines=I+am+Dilshan+Dekumpitiya)](https://git.io/typing-svg)
+<p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&width=435&lines=Hi!+%F0%9F%91%8B%2C+I'm+Dilshan+Dekumpitiya" alt="Typing SVG" /></a> </p>
 
-<h3 align="center"><i>A Passionate Software Engineer From Sri Lanka</i></h3>
+
+<h4 align="center"><i>A Passionate Software Engineer From Sri Lanka</i></h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dilshan-dekumpitiya&label=Profile%20views&color=0e75b6&style=flat" alt="dilshan-dekumpitiya" /> </p>
 
