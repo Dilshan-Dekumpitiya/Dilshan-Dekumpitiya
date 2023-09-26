@@ -28,6 +28,9 @@
 <img src="https://github.com/Dilshan-Dekumpitiya/Dilshan-Dekumpitiya/blob/main/readme-img.gif" width=500>
 </p>
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Dilshan-Dekumpitiya&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 <h4 align="center"><i>Thank you for coming my GitHub Profile 🤝 Have a wonderful day!</i></h4>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer"/>
