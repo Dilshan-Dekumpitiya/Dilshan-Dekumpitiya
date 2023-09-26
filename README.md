@@ -4,9 +4,11 @@
 
 <h4 align="center"><i>A Passionate Software Engineer From Sri Lanka</i></h4>
 
-- 📝 I regularly write articles on [https://medium.com/@dilshandekumpitiya](https://medium.com/@dilshandekumpitiya)
+- 📝 I regularly write articles on [Medium on @dilshandekumpitiya](https://medium.com/@dilshandekumpitiya)
 
-- 👨‍💻 My Portfolio [https://dilshan-dekumpitiya.github.io/MyPortfolio/](https://dilshan-dekumpitiya.github.io/MyPortfolio/)
+- 👨‍💻 My Portfolio [Dilshan-Dekumpitiya-Portfolio](https://dilshan-dekumpitiya.github.io/MyPortfolio/)
+
+- ⚡ My Youtube Channel [Dekum Vlogs](https://www.youtube.com/@dekumvlogs)
   
 - 📫 How to reach me **dilshandekumpitiya@gmail.com**
 
